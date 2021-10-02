@@ -1,16 +1,14 @@
-# less convoluted static md site
+# 关于
 
-Abandoning hugo, looked fun but couldn't live up to its promise at deployment
+## 网站
 
-## good choices
+Website is op basis van [Docute](https://github.com/QuintenMadari/docute) (vue). Wordt niet langer onderhouden, dus geforkt.
+Met behulp van een git [submodule](https://github.com/QuintenMadari/yiqizuozuoye) in de site [repo](https://github.com/QuintenMadari/zuoye) kunnen we door te committen en te pushen ons huiswerk uploaden. Site wordt up to date gehouden aan de hand van een python script en een deploy script op de server die elke 15 minuten cront.  
 
-VuePress looks very good, however node dependencies are a turn off. It has great features. They do point to alternatives.
-Docute.org presents a very simple way, based on a single javascript file which does the heavy lifting.
+# cron
 
-## Docute
-
-All md files and folders in documentroot will be hosted. The structure equals the url.
-
-index.html in docroot should contain lines as noted in docute.org quickstart.
-
-within new docute extra options can be added.
+```
+crontab -e
+m h    dom mon dow    command
+*/15 * * * * deployzuoye.sh
+```
