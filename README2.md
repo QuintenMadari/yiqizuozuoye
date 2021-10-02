@@ -12,3 +12,12 @@ crontab -e
 m h    dom mon dow    command
 */15 * * * * deployzuoye.sh
 ```
+## letsencrypt
+
+Zorg er wel voor dat apache2 sites available klopt.
+
+```
+sudo apt install certbot
+sudo apt install python3-certbot-apache
+sudo certbot run -a webroot -i apache -w /var/www/html -d qsrm.win -d www.qsrm.w>
+```
