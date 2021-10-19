@@ -9,4 +9,4 @@
 `现金` : xiànjīn : cash  
 `信用卡` : xìnyòngkǎ : credit card   
 `流利` : liúlì : fluent  
-`自己看` :   
+`自己看` : zìjǐ kàn : see for yourself / use your mind  
