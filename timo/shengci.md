@@ -8,3 +8,5 @@
 `数一数` : shǔ yī shǔ : to count
 `现金` : xiànjīn : cash
 `信用卡` : xìnyòngkǎ : credit card
+`流利` : liúlì : fluent
+`自己看` : 
