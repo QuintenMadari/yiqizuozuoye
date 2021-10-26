@@ -1,6 +1,6 @@
-### 生词
+# 生词
 
-#### 第五天
+## 第五天
 
 `汇率` : huìlǜ : exchange rate  
 `请` : qǐng : please  
@@ -15,3 +15,7 @@
 `包裹` : bāoguǒ : package    
 `洗` : xǐ : do laundry   
 `衣服` : yīfú : clothes  
+
+## 第五六
+
+`户口` : hùkǒu : registered residence  

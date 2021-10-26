@@ -18,7 +18,7 @@ Verb 了 and sentence 了. 了 is not past tense, there is no such thing as a te
 Instead it's 'vague' because it's a difficult concept to define and/or because there could be more to it. Too difficult to define 'just like that' in a way that everyone listening gets it immediately. But then, tenses are a strange difficult thing for Chinese people studying western languages.
 
 了 functions as a marker of 'change'. It's used when an action wasn't done or finished before, but
- - 'now' it is, 
+ - 'now' it is,
  - Or 'then' it will be,
  - Or 'back then' when it had finished (and something then happens after)
 
@@ -26,7 +26,7 @@ So it points to a specific point in time relative to the context established in 
 
 You can wash dirty laundry. At this point the laundry is still dirty. If 你洗了, you have finished washing.
 
-Important to note, when continuing the sentence, you can't just add 衣服。, that would be 'leaving the listener hanging like yesss?'. You have to either specify an amount like 一件衣服 or continue the sentence with more actions or objects to make it 'feel' good. 
+Important to note, when continuing the sentence, you can't just add 衣服。, that would be 'leaving the listener hanging like yesss?'. You have to either specify an amount like 一件衣服 or continue the sentence with more actions or objects to make it 'feel' good.
 
 The whole sentence can be finalized as well. The example of writing a letter, finishing writing but not having finished the letter:
 - 我写一封信， I'm writing a letter

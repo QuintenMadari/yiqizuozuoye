@@ -9,6 +9,7 @@
 
 - Answer on P14 text book ex 4.2. B answers with nali (哪里). What does it mean in this context?
 - Answer on P13 text book ex 4.1 (commenting on ...). Conversation is unclear.
+- What does the character 呢 in 课文, 第16章 near the end of the conversation.
 
 ## 作业五
 ### 课本P12-15, ex. 3, 4。
@@ -64,3 +65,5 @@ B : `哪里 , ` ...
 #### 22
 A : `昨天你看电影吗?`
 B : `我没看电影了 . 我去王府井了`
+
+## 作业六
