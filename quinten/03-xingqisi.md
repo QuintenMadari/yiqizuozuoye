@@ -1,8 +1,27 @@
 # 星期四
 
-我需要开始
+
 
 ## teacher's notes
+turn a person into a place with zher nar or adding a place after.
+不好：
+我去医生
+好：
+我去医生那儿
+我来
+doing a short version of something, jieshaojieshao canguancanguan etc
+yongyiyong kankan
+jiu shi zhegeren, exactly precies
+
+tijd loopt verticaal naar beneden
+
+yinhang bank
+shangchang shopping mall
+youju post office, baoguo package
+
+4 0's in one unity
+yuan goes with jiao
+kuai goes with mao
 
 ### Verb+的（+adjective）
 
