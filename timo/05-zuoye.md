@@ -1,10 +1,5 @@
 # 作业
 
-1. 读第16课课文一和生词，3次以上。
-2. 课本P10-11, 熟读下列词组，（1）-（6），3次以上。
-3. 课本P12-15, ex. 3, 4。
-4. Week 4， PPT， slides 21, 22, 23。
-
 ## 问题
 
 - Answer on P14 text book ex 4.2. B answers with nali (哪里). What does it mean in this context?
@@ -12,6 +7,12 @@
 - What does the character 呢 in 课文, 第16章 near the end of the conversation.
 
 ## 作业五
+
+1. 读第16课课文一和生词，3次以上。
+2. 课本P10-11, 熟读下列词组，（1）-（6），3次以上。
+3. 课本P12-15, ex. 3, 4。
+4. Week 4， PPT， slides 21, 22, 23。
+
 ### 课本P12-15, ex. 3, 4。
 #### ex 3
 
@@ -67,3 +68,18 @@ A : `昨天你看电影吗?`
 B : `我没看电影了 . 我去王府井了`
 
 ## 作业六
+
+1. 读16 课课文一三次，并发一次录音给我。
+2. 读16课课文二的课文和生词三次以上。
+3. 读课本P35, ex.1 (1), (2)& (3), read the phrases until you learn them by heart.
+4. 练习册P18 -P23, ex. 1-9
+
+### 读16 课课文一三次，并发一次录音给我。
+
+Make record of 16, text one,
+
+### 读16课课文二的课文和生词三次以上。
+
+Read text two with shengci three times
+
+### 读课本P35, ex.1 (1), (2)& (3), read the phrases until you learn them by heart.
