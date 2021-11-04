@@ -83,3 +83,5 @@ Make record of 16, text one,
 Read text two with shengci three times
 
 ### 读课本P35, ex.1 (1), (2)& (3), read the phrases until you learn them by heart.
+
+练习册P18 -P23, ex. 1-9
