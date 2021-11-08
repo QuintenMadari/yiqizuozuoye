@@ -22,3 +22,20 @@
 ```
 
 </details>
+
+pptweek7
+15
+Let's go upstairs: 我i们上楼去吧
+Let's go downstairs: 我们下楼去吧
+Come upstairs quickly: 上来上来！
+Come downstairs quickly: 下来下来！
+16
+Let's go back to the dorm: 我们会去宿舍楼吧。
+I'm going to Xi'an next weekend：下个周末我回去西安。
+Xiaohong sent a postcard to me：小红给我寄了明信片。
+Please bring a photo next time：下个次清带一张照片。
+17
+Is he back from Beijing?：他从北京回来吗？
+He's back on Friday afternoon： 他星期五下午回来。
+Is Ms Zhang here?： 张小姐在这里吗？
+She went to her Chinese class：她去了她的汉语课。
