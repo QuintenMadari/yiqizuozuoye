@@ -2,7 +2,10 @@
 
 ## 一课本
 
+### 一
 <details><summary>抄本</summary>
+
+银行还钱 -》评价动作或行为 -》 
 
 ```
 琳娜：    力波， 你来的真早！
@@ -23,19 +26,31 @@
 
 </details>
 
-pptweek7
-15
-Let's go upstairs: 我i们上楼去吧
-Let's go downstairs: 我们下楼去吧
-Come upstairs quickly: 上来上来！
-Come downstairs quickly: 下来下来！
-16
-Let's go back to the dorm: 我们会去宿舍楼吧。
-I'm going to Xi'an next weekend：下个周末我回去西安。
-Xiaohong sent a postcard to me：小红给我寄了明信片。
-Please bring a photo next time：下个次清带一张照片。
-17
-Is he back from Beijing?：他从北京回来吗？
-He's back on Friday afternoon： 他星期五下午回来。
-Is Ms Zhang here?： 张小姐在这里吗？
-She went to her Chinese class：她去了她的汉语课。
+### 生词
+
+|---|---|---|
+|的|StPt|吃的很好， 穿得很漂亮， 玩儿得很好|
+|早|A|来的很早，去的太早，到的很早，睡觉不早，你早，都很早|
+|银行|N|中国银行|
+|少|A|人少，银行很少，也很少，不少，|
+|排队|VO|不用排队，排队买书，排队挂号，排两个队|
+|   |棑|V|
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
+
